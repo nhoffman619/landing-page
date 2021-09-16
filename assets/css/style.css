@@ -1,0 +1,45 @@
+
+
+header {
+    background-color: blue;
+    height: 100px;
+    text-align: right;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+
+}
+
+.Github {
+
+    display: inline;
+}
+
+.Portfolio {
+
+    color: white;
+}
+
+
+footer {
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: blue;
+}
